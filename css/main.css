@@ -24,6 +24,11 @@ body {
 }
 
 .img-flex {
+  margin: 0;
   display: block;
   width: 100%;
+}
+
+figure {
+  margin: 0;
 }
