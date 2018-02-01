@@ -12,7 +12,6 @@ html {
   text-size-adjust: 100%;
   font: normal 100%/1.4 sans-serif;
   font-family: "Open Sans", sans-serif;
-
 }
 
 *, *::before, *::after {
@@ -26,8 +25,4 @@ body {
 .img-flex {
   display: block;
   width: 100%;
-}
-
-figure {
-  margin: 0;
 }
