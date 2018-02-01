@@ -10,7 +10,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font: normal 100%/1.4 sans-serif;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -19,7 +18,7 @@ html {
 }
 
 body {
-  margin: auto;
+  margin: 0;
 }
 
 .img-flex {
